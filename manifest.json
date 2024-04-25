@@ -1,0 +1,13 @@
+{
+  "name": "Websites Tracker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Just a simple website tracker that track all the website you visited.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "permissions": ["activeTab"]
+}
