@@ -14,7 +14,7 @@ This is a browser extension that allows users to track and monitor websites they
 - Once installed, the extension will automatically track the websites you visit.
 - You can view the tracked websites by clicking on the extension icon.
 
-![Extension Preview](image.png)
+<img src="image.png" alt="Extension Preview" width="400" height="300">
 
 ## Future Goals
 
