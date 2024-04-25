@@ -14,6 +14,8 @@ This is a browser extension that allows users to track and monitor websites they
 - Once installed, the extension will automatically track the websites you visit.
 - You can view the tracked websites by clicking on the extension icon.
 
+![Extension Preview](image.png)
+
 ## Future Goals
 
 - Add interaction with Google Sheets or other APIs to enable remote access to the visited website data.
